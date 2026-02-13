@@ -71,19 +71,6 @@ languages: [German (native), English, Arabic]
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=salahxiv&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=6C63FF&amp;icon_color=00B4D8&amp;text_color=C9D1D9&amp;hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahxiv&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=6C63FF&amp;text_color=C9D1D9&amp;hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=salahxiv&amp;theme=tokyonight&amp;background=0D1117&amp;ring=6C63FF&amp;fire=6C63FF&amp;currStreakLabel=6C63FF&amp;sideLabels=C9D1D9&amp;dates=C9D1D9&amp;hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## Contribution Snake
 
 <picture>
